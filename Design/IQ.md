@@ -1,6 +1,4 @@
-Certainly! Here are the interview-style answers to the “Expect to answer” questions from your text:
 
----
 
 ### 1. Core Microservices Concepts
 
